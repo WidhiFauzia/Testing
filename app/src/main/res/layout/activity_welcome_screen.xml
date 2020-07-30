@@ -21,7 +21,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="190dp"
-        android:background="@drawable/center_image"
+        android:background="@drawable/ic_family"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toTopOf="@id/tv_title1"
         app:layout_constraintLeft_toLeftOf="parent"
